@@ -1,8 +1,7 @@
-#   Website_DigitalMKT_KDTBYT_GROUP2
+#   Web kinh doanh thiết bị y tế và chiến dịch digital marketing cho trang web
 
-
-Web kinh doanh thiết bị y tế và chiến dịch digital marketing cho trang web
 Phần 1: Xây dựng Website Kinh doanh Thiết bị Y tế
+
 1. Giao diện và Thiết kế: Thiết kế giao diện trang web chuyên nghiệp, dễ sử dụng và thân thiện với người dùng, với tông màu và hình ảnh phù hợp với lĩnh vực y tế.
 2. Danh mục Sản phẩm: Tạo các danh mục sản phẩm dựa trên các loại thiết bị y tế, ví dụ: dụng cụ phẫu thuật, máy móc y tế, sản phẩm chăm sóc sức khỏe. Cho phép khách hàng dễ dàng tìm kiếm và lọc sản phẩm theo các tiêu chí như giá, thương hiệu, hoặc chứng chỉ chất lượng.
 3. Mô tả Sản phẩm: Cung cấp thông tin chi tiết, hình ảnh và tài liệu kỹ thuật về từng sản phẩm, bao gồm các thông tin liên quan đến an toàn và hiệu suất.
@@ -13,7 +12,9 @@ Phần 1: Xây dựng Website Kinh doanh Thiết bị Y tế
 8. Quản lý Người dùng: Cho phép khách hàng tạo tài khoản, đăng nhập và quản lý thông tin cá nhân của họ. Hỗ trợ quên mật khẩu và đổi mật khẩu tài khoản.
 9. Bảo mật và Bảo vệ Dữ liệu: Đảm bảo tính bảo mật của thông tin cá nhân của khách hàng và dữ liệu liên quan đến giao dịch.
 10. Thống kê và Báo cáo: - Cung cấp báo cáo về doanh số bán hàng, lượt xem sản phẩm và các chỉ số kinh doanh khác để hỗ trợ quyết định kinh doanh.
+
 Phần 2: Digital Marketing cho Website
+
 1. Nghiên cứu Thị trường và Đối thủ: Tiến hành nghiên cứu thị trường để xác định đối thủ và hiểu sâu về người tiêu dùng trong ngành y tế.
 2. Chiến dịch SEO (Tối ưu hóa công cụ tìm kiếm): Tối ưu hóa trang web cho công cụ tìm kiếm (SEO) để cải thiện vị trí trang web trên các trang kết quả tìm kiếm.
 3. Quảng cáo trả tiền trên Google Ads và Quảng cáo Mạng xã hội: Tạo và quản lý chiến dịch quảng cáo trả tiền để tăng lưu lượng trang web và chuyển đổi.
