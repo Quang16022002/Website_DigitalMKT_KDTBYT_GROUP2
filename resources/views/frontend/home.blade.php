@@ -14,6 +14,7 @@
   chatbox.setAttribute("attribution", "biz_inbox");
 </script>
 
+
 <!-- Your SDK code -->
 <script>
   window.fbAsyncInit = function() {
