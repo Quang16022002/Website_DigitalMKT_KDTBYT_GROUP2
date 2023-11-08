@@ -3,6 +3,60 @@
 <script>
     
 </script>
+<style>
+    .payment {
+	width: 100%;
+	display: flex;
+	margin-left: 17px;
+	
+}
+.momo {
+	margin-left: 30px;
+}
+.vnpay {
+	display: flex;
+}
+.vnpay  > img {
+	width: 50px;
+	height: 50px;
+	background-color: #1e8223;
+}
+
+.vnpay > button {
+	border: none;
+	background-color: rgb(24,164,216);
+	color: white;
+	height: 50px;
+	transition: all 0.5s ease;
+	margin-left: 8px;
+	width: 189px;
+}
+.momo {
+	display: flex;
+}
+
+.momo> img {
+	width: 50px;
+	height: 50px;
+}
+
+.momo > button {
+	border: none;
+	background-color: rgb(24,164,216);
+	color: white;
+	transition: all 0.5s ease;
+	width: 189px;
+	
+}
+
+
+.momo > button:hover {
+	background-color: rgb(166,0,100);
+}
+.vnpay > button:hover{
+	background-color: rgb(0,90,168);
+}
+</style>
 <section class="main-container col1-layout">
     <div class="main container">
         <div class="col-main" id="listCart">
